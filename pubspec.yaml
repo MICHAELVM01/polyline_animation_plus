@@ -1,0 +1,32 @@
+name: polyline_animation_plus
+description: "A Flutter package for creating smooth, customizable polyline animations on Google Maps, ideal for transport, delivery, and route-visualization applications."
+version: 1.0.1+1
+homepage:
+
+environment:
+  sdk: ^3.7.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter_platform_interface: ^2.14.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+
+# Add topics for better discoverability
+topics:
+  - map-animation
+  - animated-markers
+  - animated-polylines
+  - animated-bearings

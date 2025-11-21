@@ -4,7 +4,11 @@ A Flutter package for creating smooth, customizable polyline animations on Googl
 
 ## 🎥 Demo
 
-![Polyline animation demo](doc/demo.gif)
+<p align="center">
+<img src="doc/demo.gif" width="30%" alt="Floating Bubble Overlay Demo" />
+<br>
+This animation represents how the plugin behaves
+</p>
 
 ---
 
@@ -25,7 +29,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  polyline_animation_plus: ^1.0.1+1
+  polyline_animation_plus: ^1.0.3
 ```
 
 Or if using locally (for development):
@@ -95,10 +99,29 @@ More complete examples can be found in the `/example` folder.
 ## 📚 Additional Information
 
 - Issues and feature requests: **GitHub Issues**
+- Repository: https://github.com/MICHAELVM01/polyline_animation_plus
 - Contributions are welcome! Submit PRs to improve animations or extend support.
 - This package is developed by **ToolRides** for advanced route visualizations in transportation and mobility apps.
 
+## 👤 Author / Developer
+
+**Michael Anthony Valdiviezo Maza**
+
+Flutter & Mobile Developer focused on mobility, ride‑hailing, logistics and real‑time map experiences. Creator of ToolRides solutions and open‑source packages for advanced transportation interfaces.
+
+**Areas of focus**
+- Google Maps & geolocation (polylines, tracking, animations)
+- Ride‑hailing / fleet dispatch flows
+- Real‑time mobility UX and performance optimization
+- White‑label transportation platforms (B2B & B2C)
+
+**Connect**
+- GitHub: https://github.com/MICHAELVM01
+
+If you use this package in your project, feel free to open an issue or PR — contributions and ideas are welcome.
+
 ---
+
 
 ## 📄 License
 

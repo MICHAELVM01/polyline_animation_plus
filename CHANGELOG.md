@@ -1,4 +1,4 @@
-## 1.0.1+1
+## 1.0.2
 
 - Initial release of `polyline_animation_plus`.
 - Added core polyline animation engine.

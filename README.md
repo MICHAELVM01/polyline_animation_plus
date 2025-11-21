@@ -4,7 +4,7 @@ A Flutter package for creating smooth, customizable polyline animations on Googl
 
 ## 🎥 Demo
 
-![Polyline animation demo](docs/demo.gif)
+![Polyline animation demo](doc/demo.gif)
 
 ---
 

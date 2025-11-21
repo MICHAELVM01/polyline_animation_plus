@@ -29,7 +29,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  polyline_animation_plus: ^1.0.3
+  polyline_animation_plus: ^1.0.4
 ```
 
 Or if using locally (for development):

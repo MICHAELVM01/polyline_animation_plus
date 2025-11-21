@@ -1,3 +1,6 @@
-## 0.0.1
+## 1.0.1+1
 
-* TODO: Describe initial release.
+- Initial release of `polyline_animation_plus`.
+- Added core polyline animation engine.
+- Included progressive fade animation, controllers, and utilities.
+- Provided example project demonstrating Google Maps integration.
